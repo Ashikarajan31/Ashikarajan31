@@ -20,13 +20,10 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 
 ## 📈 GitHub Stats
 
-![Ashika's GitHub stats]()
+![Ashikarajan31's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashikarajan31&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](
+- [LinkedIn](linkedin.com/in/ashika-r-44298a2a1)
 
 
-Feel free to check out my repositories and leave a star if you find something interesting. I'm always open to feedback and collaboration opportunities!
-
-Thanks for stopping by! 😊

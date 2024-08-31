@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 
 ## 🚀 About Me
 
-- 🌱 **Currently Learning:** .
+- 🌱 **Currently Learning:** Fullatack Development.
 - 💻 I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 - 🤔 **Interested In:** Exploring new technologies, contributing to the developer community, and solving complex problems.
 - 🎯 My goal is to contribute to open-source projects and collaborate with other developers.

@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 - 💻 I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 - 🤔 **Interested In:** Exploring new technologies, contributing to the developer community, and solving complex problems.
 - 🎯 My goal is to contribute to open-source projects and collaborate with other developers.
-- 📫 **How to Reach Me:** [Email](ashikarajan31@gmail.com)
+- 📫 **How to Reach Me:** "ashikarajan31@gmail.com"
 
 ## 🛠 Tech Stack
 
